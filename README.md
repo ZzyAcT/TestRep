@@ -42,3 +42,7 @@ GitHub的官网入口[GITHUB](http://www.github.com "GitHub的官网入口")进�
 GitHub的官网入口[GITHUB][1]进去看看
 
 [1]:http://www.github.com "GitHub的官网"
+
+测试插入图片
+![63772848468826.png](https://i.loli.net/2021/11/25/VT5WgEuAdtf4iIa.png "太刀-紫")
+
