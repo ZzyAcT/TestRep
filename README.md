@@ -46,3 +46,14 @@ GitHub的官网入口[GITHUB][1]进去看看
 测试插入图片
 ![63772848468826.png](https://i.loli.net/2021/11/25/XkgQGzTeY3J6iNh.png "太刀-紫")
 
+```c
+#include<stdio.h>
+int main()
+{
+	printf("hello world\n");
+	
+	return 0;
+}
+
+```
+
