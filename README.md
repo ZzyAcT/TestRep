@@ -35,3 +35,10 @@
 >>> 第三层引用文本
 >>>> 第四层引用文本
 
+
+GitHub的官网入口[GITHUB](http://www.github.com "GitHub的官网入口")进去看看
+
+
+GitHub的官网入口[GITHUB][1]进去看看
+
+[1]:http://www.github.com "GitHub的官网"
